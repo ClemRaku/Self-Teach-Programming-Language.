@@ -1,0 +1,5 @@
+a, b, c = map(int, input("Enter numbers: ").split())
+e, f, g = map(str, input("Enter strings: ").split())
+print(a, b, c)
+print("\n")
+print(e, f, g)
