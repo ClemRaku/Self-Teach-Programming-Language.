@@ -1,0 +1,14 @@
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Practice\Code Forces\String_Task\bin\Debug\net8.0\String_Task.exe
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Practice\Code Forces\String_Task\bin\Debug\net8.0\String_Task.deps.json
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Practice\Code Forces\String_Task\bin\Debug\net8.0\String_Task.runtimeconfig.json
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Practice\Code Forces\String_Task\bin\Debug\net8.0\String_Task.dll
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Practice\Code Forces\String_Task\bin\Debug\net8.0\String_Task.pdb
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Practice\Code Forces\String_Task\obj\Debug\net8.0\String_Task.GeneratedMSBuildEditorConfig.editorconfig
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Practice\Code Forces\String_Task\obj\Debug\net8.0\String_Task.AssemblyInfoInputs.cache
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Practice\Code Forces\String_Task\obj\Debug\net8.0\String_Task.AssemblyInfo.cs
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Practice\Code Forces\String_Task\obj\Debug\net8.0\String_Task.csproj.CoreCompileInputs.cache
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Practice\Code Forces\String_Task\obj\Debug\net8.0\String_Task.dll
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Practice\Code Forces\String_Task\obj\Debug\net8.0\refint\String_Task.dll
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Practice\Code Forces\String_Task\obj\Debug\net8.0\String_Task.pdb
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Practice\Code Forces\String_Task\obj\Debug\net8.0\String_Task.genruntimeconfig.cache
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Practice\Code Forces\String_Task\obj\Debug\net8.0\ref\String_Task.dll

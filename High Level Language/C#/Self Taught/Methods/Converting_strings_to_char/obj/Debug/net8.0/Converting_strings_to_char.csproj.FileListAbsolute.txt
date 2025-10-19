@@ -1,0 +1,14 @@
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Methods\Converting_strings_to_char\bin\Debug\net8.0\Converting_strings_to_char.exe
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Methods\Converting_strings_to_char\bin\Debug\net8.0\Converting_strings_to_char.deps.json
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Methods\Converting_strings_to_char\bin\Debug\net8.0\Converting_strings_to_char.runtimeconfig.json
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Methods\Converting_strings_to_char\bin\Debug\net8.0\Converting_strings_to_char.dll
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Methods\Converting_strings_to_char\bin\Debug\net8.0\Converting_strings_to_char.pdb
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Methods\Converting_strings_to_char\obj\Debug\net8.0\Converting_strings_to_char.GeneratedMSBuildEditorConfig.editorconfig
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Methods\Converting_strings_to_char\obj\Debug\net8.0\Converting_strings_to_char.AssemblyInfoInputs.cache
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Methods\Converting_strings_to_char\obj\Debug\net8.0\Converting_strings_to_char.AssemblyInfo.cs
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Methods\Converting_strings_to_char\obj\Debug\net8.0\Converting_strings_to_char.csproj.CoreCompileInputs.cache
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Methods\Converting_strings_to_char\obj\Debug\net8.0\Converting_strings_to_char.dll
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Methods\Converting_strings_to_char\obj\Debug\net8.0\refint\Converting_strings_to_char.dll
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Methods\Converting_strings_to_char\obj\Debug\net8.0\Converting_strings_to_char.pdb
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Methods\Converting_strings_to_char\obj\Debug\net8.0\Converting_strings_to_char.genruntimeconfig.cache
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Methods\Converting_strings_to_char\obj\Debug\net8.0\ref\Converting_strings_to_char.dll

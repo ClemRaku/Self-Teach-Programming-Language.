@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CapitalorSmall_Letters/1.0.0": {
+        "runtime": {
+          "CapitalorSmall_Letters.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CapitalorSmall_Letters/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

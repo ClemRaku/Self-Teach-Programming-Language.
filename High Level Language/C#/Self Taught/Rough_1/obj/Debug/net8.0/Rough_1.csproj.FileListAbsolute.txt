@@ -1,0 +1,14 @@
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Rough_1\obj\Debug\net8.0\Rough_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Rough_1\obj\Debug\net8.0\Rough_1.AssemblyInfoInputs.cache
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Rough_1\obj\Debug\net8.0\Rough_1.AssemblyInfo.cs
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Rough_1\obj\Debug\net8.0\Rough_1.csproj.CoreCompileInputs.cache
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Rough_1\bin\Debug\net8.0\Rough_1.exe
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Rough_1\bin\Debug\net8.0\Rough_1.deps.json
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Rough_1\bin\Debug\net8.0\Rough_1.runtimeconfig.json
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Rough_1\bin\Debug\net8.0\Rough_1.dll
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Rough_1\bin\Debug\net8.0\Rough_1.pdb
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Rough_1\obj\Debug\net8.0\Rough_1.dll
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Rough_1\obj\Debug\net8.0\refint\Rough_1.dll
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Rough_1\obj\Debug\net8.0\Rough_1.pdb
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Rough_1\obj\Debug\net8.0\Rough_1.genruntimeconfig.cache
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Rough_1\obj\Debug\net8.0\ref\Rough_1.dll

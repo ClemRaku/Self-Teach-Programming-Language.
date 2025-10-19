@@ -1,0 +1,14 @@
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Exceptionals_Try_Catch\bin\Debug\net8.0\Exceptionals_Try_Catch.exe
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Exceptionals_Try_Catch\bin\Debug\net8.0\Exceptionals_Try_Catch.deps.json
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Exceptionals_Try_Catch\bin\Debug\net8.0\Exceptionals_Try_Catch.runtimeconfig.json
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Exceptionals_Try_Catch\bin\Debug\net8.0\Exceptionals_Try_Catch.dll
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Exceptionals_Try_Catch\bin\Debug\net8.0\Exceptionals_Try_Catch.pdb
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Exceptionals_Try_Catch\obj\Debug\net8.0\Exceptionals_Try_Catch.GeneratedMSBuildEditorConfig.editorconfig
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Exceptionals_Try_Catch\obj\Debug\net8.0\Exceptionals_Try_Catch.AssemblyInfoInputs.cache
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Exceptionals_Try_Catch\obj\Debug\net8.0\Exceptionals_Try_Catch.AssemblyInfo.cs
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Exceptionals_Try_Catch\obj\Debug\net8.0\Exceptionals_Try_Catch.csproj.CoreCompileInputs.cache
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Exceptionals_Try_Catch\obj\Debug\net8.0\Exceptionals_Try_Catch.dll
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Exceptionals_Try_Catch\obj\Debug\net8.0\refint\Exceptionals_Try_Catch.dll
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Exceptionals_Try_Catch\obj\Debug\net8.0\Exceptionals_Try_Catch.pdb
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Exceptionals_Try_Catch\obj\Debug\net8.0\Exceptionals_Try_Catch.genruntimeconfig.cache
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Exceptionals_Try_Catch\obj\Debug\net8.0\ref\Exceptionals_Try_Catch.dll

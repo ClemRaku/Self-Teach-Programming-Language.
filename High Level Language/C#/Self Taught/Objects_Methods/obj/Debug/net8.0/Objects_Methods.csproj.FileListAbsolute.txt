@@ -1,0 +1,14 @@
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Objects_Methods\obj\Debug\net8.0\Objects_Methods.GeneratedMSBuildEditorConfig.editorconfig
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Objects_Methods\obj\Debug\net8.0\Objects_Methods.AssemblyInfoInputs.cache
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Objects_Methods\obj\Debug\net8.0\Objects_Methods.AssemblyInfo.cs
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Objects_Methods\obj\Debug\net8.0\Objects_Methods.csproj.CoreCompileInputs.cache
+d:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Objects_Methods\bin\Debug\net8.0\Objects_Methods.exe
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Objects_Methods\bin\Debug\net8.0\Objects_Methods.deps.json
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Objects_Methods\bin\Debug\net8.0\Objects_Methods.runtimeconfig.json
+d:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Objects_Methods\bin\Debug\net8.0\Objects_Methods.dll
+d:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Objects_Methods\bin\Debug\net8.0\Objects_Methods.pdb
+d:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Objects_Methods\obj\Debug\net8.0\Objects_Methods.dll
+d:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Objects_Methods\obj\Debug\net8.0\refint\Objects_Methods.dll
+d:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Objects_Methods\obj\Debug\net8.0\Objects_Methods.pdb
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Objects_Methods\obj\Debug\net8.0\Objects_Methods.genruntimeconfig.cache
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Objects_Methods\obj\Debug\net8.0\ref\Objects_Methods.dll

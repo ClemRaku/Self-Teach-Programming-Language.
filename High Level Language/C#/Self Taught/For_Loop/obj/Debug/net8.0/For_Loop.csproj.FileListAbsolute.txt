@@ -1,0 +1,14 @@
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\For_Loop\bin\Debug\net8.0\For_Loop.exe
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\For_Loop\bin\Debug\net8.0\For_Loop.deps.json
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\For_Loop\bin\Debug\net8.0\For_Loop.runtimeconfig.json
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\For_Loop\bin\Debug\net8.0\For_Loop.dll
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\For_Loop\bin\Debug\net8.0\For_Loop.pdb
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\For_Loop\obj\Debug\net8.0\For_Loop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\For_Loop\obj\Debug\net8.0\For_Loop.AssemblyInfoInputs.cache
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\For_Loop\obj\Debug\net8.0\For_Loop.AssemblyInfo.cs
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\For_Loop\obj\Debug\net8.0\For_Loop.csproj.CoreCompileInputs.cache
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\For_Loop\obj\Debug\net8.0\For_Loop.dll
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\For_Loop\obj\Debug\net8.0\refint\For_Loop.dll
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\For_Loop\obj\Debug\net8.0\For_Loop.pdb
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\For_Loop\obj\Debug\net8.0\For_Loop.genruntimeconfig.cache
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\For_Loop\obj\Debug\net8.0\ref\For_Loop.dll

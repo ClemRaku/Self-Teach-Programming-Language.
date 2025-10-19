@@ -1,0 +1,14 @@
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Guessing_game(While_Loop)\bin\Debug\net8.0\Guessing_game(While_Loop).exe
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Guessing_game(While_Loop)\bin\Debug\net8.0\Guessing_game(While_Loop).deps.json
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Guessing_game(While_Loop)\bin\Debug\net8.0\Guessing_game(While_Loop).runtimeconfig.json
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Guessing_game(While_Loop)\bin\Debug\net8.0\Guessing_game(While_Loop).dll
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Guessing_game(While_Loop)\bin\Debug\net8.0\Guessing_game(While_Loop).pdb
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Guessing_game(While_Loop)\obj\Debug\net8.0\Guessing_game(While_Loop).GeneratedMSBuildEditorConfig.editorconfig
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Guessing_game(While_Loop)\obj\Debug\net8.0\Guessing_game(While_Loop).AssemblyInfoInputs.cache
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Guessing_game(While_Loop)\obj\Debug\net8.0\Guessing_game(While_Loop).AssemblyInfo.cs
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Guessing_game(While_Loop)\obj\Debug\net8.0\Guessing_game(While_Loop).csproj.CoreCompileInputs.cache
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Guessing_game(While_Loop)\obj\Debug\net8.0\Guessing_game(While_Loop).dll
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Guessing_game(While_Loop)\obj\Debug\net8.0\refint\Guessing_game(While_Loop).dll
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Guessing_game(While_Loop)\obj\Debug\net8.0\Guessing_game(While_Loop).pdb
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Guessing_game(While_Loop)\obj\Debug\net8.0\Guessing_game(While_Loop).genruntimeconfig.cache
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Guessing_game(While_Loop)\obj\Debug\net8.0\ref\Guessing_game(While_Loop).dll

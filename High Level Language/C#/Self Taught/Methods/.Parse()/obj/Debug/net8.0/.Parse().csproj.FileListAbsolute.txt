@@ -1,0 +1,14 @@
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Methods\.Parse()\bin\Debug\net8.0\.Parse().exe
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Methods\.Parse()\bin\Debug\net8.0\.Parse().deps.json
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Methods\.Parse()\bin\Debug\net8.0\.Parse().runtimeconfig.json
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Methods\.Parse()\bin\Debug\net8.0\.Parse().dll
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Methods\.Parse()\bin\Debug\net8.0\.Parse().pdb
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Methods\.Parse()\obj\Debug\net8.0\.Parse().GeneratedMSBuildEditorConfig.editorconfig
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Methods\.Parse()\obj\Debug\net8.0\.Parse().AssemblyInfoInputs.cache
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Methods\.Parse()\obj\Debug\net8.0\.Parse().AssemblyInfo.cs
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Methods\.Parse()\obj\Debug\net8.0\.Parse().csproj.CoreCompileInputs.cache
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Methods\.Parse()\obj\Debug\net8.0\.Parse().dll
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Methods\.Parse()\obj\Debug\net8.0\refint\.Parse().dll
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Methods\.Parse()\obj\Debug\net8.0\.Parse().pdb
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Methods\.Parse()\obj\Debug\net8.0\.Parse().genruntimeconfig.cache
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Methods\.Parse()\obj\Debug\net8.0\ref\.Parse().dll

@@ -1,0 +1,16 @@
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Projects\Simple Tic-Tac-Toe\Super-Tic-Toe\bin\Debug\net8.0-windows\Super-Tic-Toe.exe
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Projects\Simple Tic-Tac-Toe\Super-Tic-Toe\bin\Debug\net8.0-windows\Super-Tic-Toe.deps.json
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Projects\Simple Tic-Tac-Toe\Super-Tic-Toe\bin\Debug\net8.0-windows\Super-Tic-Toe.runtimeconfig.json
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Projects\Simple Tic-Tac-Toe\Super-Tic-Toe\bin\Debug\net8.0-windows\Super-Tic-Toe.dll
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Projects\Simple Tic-Tac-Toe\Super-Tic-Toe\bin\Debug\net8.0-windows\Super-Tic-Toe.pdb
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Projects\Simple Tic-Tac-Toe\Super-Tic-Toe\obj\Debug\net8.0-windows\Super_Tic_Toe.Form1.resources
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Projects\Simple Tic-Tac-Toe\Super-Tic-Toe\obj\Debug\net8.0-windows\Super-Tic-Toe.csproj.GenerateResource.cache
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Projects\Simple Tic-Tac-Toe\Super-Tic-Toe\obj\Debug\net8.0-windows\Super-Tic-Toe.GeneratedMSBuildEditorConfig.editorconfig
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Projects\Simple Tic-Tac-Toe\Super-Tic-Toe\obj\Debug\net8.0-windows\Super-Tic-Toe.AssemblyInfoInputs.cache
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Projects\Simple Tic-Tac-Toe\Super-Tic-Toe\obj\Debug\net8.0-windows\Super-Tic-Toe.AssemblyInfo.cs
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Projects\Simple Tic-Tac-Toe\Super-Tic-Toe\obj\Debug\net8.0-windows\Super-Tic-Toe.csproj.CoreCompileInputs.cache
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Projects\Simple Tic-Tac-Toe\Super-Tic-Toe\obj\Debug\net8.0-windows\Super-Tic-Toe.dll
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Projects\Simple Tic-Tac-Toe\Super-Tic-Toe\obj\Debug\net8.0-windows\refint\Super-Tic-Toe.dll
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Projects\Simple Tic-Tac-Toe\Super-Tic-Toe\obj\Debug\net8.0-windows\Super-Tic-Toe.pdb
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Projects\Simple Tic-Tac-Toe\Super-Tic-Toe\obj\Debug\net8.0-windows\Super-Tic-Toe.genruntimeconfig.cache
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Projects\Simple Tic-Tac-Toe\Super-Tic-Toe\obj\Debug\net8.0-windows\ref\Super-Tic-Toe.dll

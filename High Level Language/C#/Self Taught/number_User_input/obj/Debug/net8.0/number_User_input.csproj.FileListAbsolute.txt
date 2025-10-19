@@ -1,0 +1,14 @@
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\number_User_input\obj\Debug\net8.0\number_User_input.GeneratedMSBuildEditorConfig.editorconfig
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\number_User_input\obj\Debug\net8.0\number_User_input.AssemblyInfoInputs.cache
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\number_User_input\obj\Debug\net8.0\number_User_input.AssemblyInfo.cs
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\number_User_input\obj\Debug\net8.0\number_User_input.csproj.CoreCompileInputs.cache
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\number_User_input\bin\Debug\net8.0\number_User_input.exe
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\number_User_input\bin\Debug\net8.0\number_User_input.deps.json
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\number_User_input\bin\Debug\net8.0\number_User_input.runtimeconfig.json
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\number_User_input\bin\Debug\net8.0\number_User_input.dll
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\number_User_input\bin\Debug\net8.0\number_User_input.pdb
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\number_User_input\obj\Debug\net8.0\number_User_input.dll
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\number_User_input\obj\Debug\net8.0\refint\number_User_input.dll
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\number_User_input\obj\Debug\net8.0\number_User_input.pdb
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\number_User_input\obj\Debug\net8.0\number_User_input.genruntimeconfig.cache
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\number_User_input\obj\Debug\net8.0\ref\number_User_input.dll

@@ -1,0 +1,14 @@
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Exponent_Method\bin\Debug\net8.0\Exponent_Method.exe
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Exponent_Method\bin\Debug\net8.0\Exponent_Method.deps.json
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Exponent_Method\bin\Debug\net8.0\Exponent_Method.runtimeconfig.json
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Exponent_Method\bin\Debug\net8.0\Exponent_Method.dll
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Exponent_Method\bin\Debug\net8.0\Exponent_Method.pdb
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Exponent_Method\obj\Debug\net8.0\Exponent_Method.GeneratedMSBuildEditorConfig.editorconfig
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Exponent_Method\obj\Debug\net8.0\Exponent_Method.AssemblyInfoInputs.cache
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Exponent_Method\obj\Debug\net8.0\Exponent_Method.AssemblyInfo.cs
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Exponent_Method\obj\Debug\net8.0\Exponent_Method.csproj.CoreCompileInputs.cache
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Exponent_Method\obj\Debug\net8.0\Exponent_Method.dll
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Exponent_Method\obj\Debug\net8.0\refint\Exponent_Method.dll
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Exponent_Method\obj\Debug\net8.0\Exponent_Method.pdb
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Exponent_Method\obj\Debug\net8.0\Exponent_Method.genruntimeconfig.cache
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Exponent_Method\obj\Debug\net8.0\ref\Exponent_Method.dll

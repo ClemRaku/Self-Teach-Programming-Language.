@@ -1,0 +1,14 @@
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\My_Projects\Too_Long_Numbers\bin\Debug\net8.0\Too_Long_Numbers.exe
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\My_Projects\Too_Long_Numbers\bin\Debug\net8.0\Too_Long_Numbers.deps.json
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\My_Projects\Too_Long_Numbers\bin\Debug\net8.0\Too_Long_Numbers.runtimeconfig.json
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\My_Projects\Too_Long_Numbers\bin\Debug\net8.0\Too_Long_Numbers.dll
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\My_Projects\Too_Long_Numbers\bin\Debug\net8.0\Too_Long_Numbers.pdb
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\My_Projects\Too_Long_Numbers\obj\Debug\net8.0\Too_Long_Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\My_Projects\Too_Long_Numbers\obj\Debug\net8.0\Too_Long_Numbers.AssemblyInfoInputs.cache
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\My_Projects\Too_Long_Numbers\obj\Debug\net8.0\Too_Long_Numbers.AssemblyInfo.cs
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\My_Projects\Too_Long_Numbers\obj\Debug\net8.0\Too_Long_Numbers.csproj.CoreCompileInputs.cache
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\My_Projects\Too_Long_Numbers\obj\Debug\net8.0\Too_Long_Numbers.dll
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\My_Projects\Too_Long_Numbers\obj\Debug\net8.0\refint\Too_Long_Numbers.dll
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\My_Projects\Too_Long_Numbers\obj\Debug\net8.0\Too_Long_Numbers.pdb
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\My_Projects\Too_Long_Numbers\obj\Debug\net8.0\Too_Long_Numbers.genruntimeconfig.cache
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\My_Projects\Too_Long_Numbers\obj\Debug\net8.0\ref\Too_Long_Numbers.dll

@@ -1,0 +1,14 @@
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Gathers_Setters\bin\Debug\net8.0\Gathers_Setters.exe
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Gathers_Setters\bin\Debug\net8.0\Gathers_Setters.deps.json
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Gathers_Setters\bin\Debug\net8.0\Gathers_Setters.runtimeconfig.json
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Gathers_Setters\bin\Debug\net8.0\Gathers_Setters.dll
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Gathers_Setters\bin\Debug\net8.0\Gathers_Setters.pdb
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Gathers_Setters\obj\Debug\net8.0\Gathers_Setters.GeneratedMSBuildEditorConfig.editorconfig
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Gathers_Setters\obj\Debug\net8.0\Gathers_Setters.AssemblyInfoInputs.cache
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Gathers_Setters\obj\Debug\net8.0\Gathers_Setters.AssemblyInfo.cs
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Gathers_Setters\obj\Debug\net8.0\Gathers_Setters.csproj.CoreCompileInputs.cache
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Gathers_Setters\obj\Debug\net8.0\Gathers_Setters.dll
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Gathers_Setters\obj\Debug\net8.0\refint\Gathers_Setters.dll
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Gathers_Setters\obj\Debug\net8.0\Gathers_Setters.pdb
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Gathers_Setters\obj\Debug\net8.0\Gathers_Setters.genruntimeconfig.cache
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Gathers_Setters\obj\Debug\net8.0\ref\Gathers_Setters.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Exponent_Method/1.0.0": {
+        "runtime": {
+          "Exponent_Method.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exponent_Method/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

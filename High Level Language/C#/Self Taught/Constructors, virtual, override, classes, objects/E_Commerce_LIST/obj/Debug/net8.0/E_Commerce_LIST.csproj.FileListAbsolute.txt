@@ -1,0 +1,14 @@
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Constructors, virtual, override, classes, objects\E_Commerce_LIST\bin\Debug\net8.0\E_Commerce_LIST.exe
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Constructors, virtual, override, classes, objects\E_Commerce_LIST\bin\Debug\net8.0\E_Commerce_LIST.deps.json
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Constructors, virtual, override, classes, objects\E_Commerce_LIST\bin\Debug\net8.0\E_Commerce_LIST.runtimeconfig.json
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Constructors, virtual, override, classes, objects\E_Commerce_LIST\bin\Debug\net8.0\E_Commerce_LIST.dll
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Constructors, virtual, override, classes, objects\E_Commerce_LIST\bin\Debug\net8.0\E_Commerce_LIST.pdb
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Constructors, virtual, override, classes, objects\E_Commerce_LIST\obj\Debug\net8.0\E_Commerce_LIST.GeneratedMSBuildEditorConfig.editorconfig
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Constructors, virtual, override, classes, objects\E_Commerce_LIST\obj\Debug\net8.0\E_Commerce_LIST.AssemblyInfoInputs.cache
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Constructors, virtual, override, classes, objects\E_Commerce_LIST\obj\Debug\net8.0\E_Commerce_LIST.AssemblyInfo.cs
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Constructors, virtual, override, classes, objects\E_Commerce_LIST\obj\Debug\net8.0\E_Commerce_LIST.csproj.CoreCompileInputs.cache
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Constructors, virtual, override, classes, objects\E_Commerce_LIST\obj\Debug\net8.0\E_Commerce_LIST.dll
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Constructors, virtual, override, classes, objects\E_Commerce_LIST\obj\Debug\net8.0\refint\E_Commerce_LIST.dll
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Constructors, virtual, override, classes, objects\E_Commerce_LIST\obj\Debug\net8.0\E_Commerce_LIST.pdb
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Constructors, virtual, override, classes, objects\E_Commerce_LIST\obj\Debug\net8.0\E_Commerce_LIST.genruntimeconfig.cache
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Constructors, virtual, override, classes, objects\E_Commerce_LIST\obj\Debug\net8.0\ref\E_Commerce_LIST.dll

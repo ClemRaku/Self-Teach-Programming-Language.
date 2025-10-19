@@ -1,0 +1,14 @@
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Methods\CapitalorSmall_Letters\bin\Debug\net8.0\CapitalorSmall_Letters.exe
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Methods\CapitalorSmall_Letters\bin\Debug\net8.0\CapitalorSmall_Letters.deps.json
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Methods\CapitalorSmall_Letters\bin\Debug\net8.0\CapitalorSmall_Letters.runtimeconfig.json
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Methods\CapitalorSmall_Letters\bin\Debug\net8.0\CapitalorSmall_Letters.dll
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Methods\CapitalorSmall_Letters\bin\Debug\net8.0\CapitalorSmall_Letters.pdb
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Methods\CapitalorSmall_Letters\obj\Debug\net8.0\CapitalorSmall_Letters.GeneratedMSBuildEditorConfig.editorconfig
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Methods\CapitalorSmall_Letters\obj\Debug\net8.0\CapitalorSmall_Letters.AssemblyInfoInputs.cache
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Methods\CapitalorSmall_Letters\obj\Debug\net8.0\CapitalorSmall_Letters.AssemblyInfo.cs
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Methods\CapitalorSmall_Letters\obj\Debug\net8.0\CapitalorSmall_Letters.csproj.CoreCompileInputs.cache
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Methods\CapitalorSmall_Letters\obj\Debug\net8.0\CapitalorSmall_Letters.dll
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Methods\CapitalorSmall_Letters\obj\Debug\net8.0\refint\CapitalorSmall_Letters.dll
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Methods\CapitalorSmall_Letters\obj\Debug\net8.0\CapitalorSmall_Letters.pdb
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Methods\CapitalorSmall_Letters\obj\Debug\net8.0\CapitalorSmall_Letters.genruntimeconfig.cache
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Methods\CapitalorSmall_Letters\obj\Debug\net8.0\ref\CapitalorSmall_Letters.dll

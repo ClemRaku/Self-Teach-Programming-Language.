@@ -1,0 +1,14 @@
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Two_D_Array\bin\Debug\net8.0\Two_D_Array.exe
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Two_D_Array\bin\Debug\net8.0\Two_D_Array.deps.json
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Two_D_Array\bin\Debug\net8.0\Two_D_Array.runtimeconfig.json
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Two_D_Array\bin\Debug\net8.0\Two_D_Array.dll
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Two_D_Array\bin\Debug\net8.0\Two_D_Array.pdb
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Two_D_Array\obj\Debug\net8.0\Two_D_Array.GeneratedMSBuildEditorConfig.editorconfig
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Two_D_Array\obj\Debug\net8.0\Two_D_Array.AssemblyInfoInputs.cache
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Two_D_Array\obj\Debug\net8.0\Two_D_Array.AssemblyInfo.cs
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Two_D_Array\obj\Debug\net8.0\Two_D_Array.csproj.CoreCompileInputs.cache
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Two_D_Array\obj\Debug\net8.0\Two_D_Array.dll
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Two_D_Array\obj\Debug\net8.0\refint\Two_D_Array.dll
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Two_D_Array\obj\Debug\net8.0\Two_D_Array.pdb
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Two_D_Array\obj\Debug\net8.0\Two_D_Array.genruntimeconfig.cache
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Two_D_Array\obj\Debug\net8.0\ref\Two_D_Array.dll

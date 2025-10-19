@@ -1,0 +1,14 @@
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Methods\Random_Class\bin\Debug\net8.0\Random_Class.exe
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Methods\Random_Class\bin\Debug\net8.0\Random_Class.deps.json
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Methods\Random_Class\bin\Debug\net8.0\Random_Class.runtimeconfig.json
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Methods\Random_Class\bin\Debug\net8.0\Random_Class.dll
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Methods\Random_Class\bin\Debug\net8.0\Random_Class.pdb
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Methods\Random_Class\obj\Debug\net8.0\Random_Class.GeneratedMSBuildEditorConfig.editorconfig
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Methods\Random_Class\obj\Debug\net8.0\Random_Class.AssemblyInfoInputs.cache
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Methods\Random_Class\obj\Debug\net8.0\Random_Class.AssemblyInfo.cs
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Methods\Random_Class\obj\Debug\net8.0\Random_Class.csproj.CoreCompileInputs.cache
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Methods\Random_Class\obj\Debug\net8.0\Random_Class.dll
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Methods\Random_Class\obj\Debug\net8.0\refint\Random_Class.dll
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Methods\Random_Class\obj\Debug\net8.0\Random_Class.pdb
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Methods\Random_Class\obj\Debug\net8.0\Random_Class.genruntimeconfig.cache
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Methods\Random_Class\obj\Debug\net8.0\ref\Random_Class.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Two_D_Array/1.0.0": {
+        "runtime": {
+          "Two_D_Array.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Two_D_Array/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

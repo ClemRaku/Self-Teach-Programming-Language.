@@ -1,0 +1,14 @@
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Practice\Code Forces\Way_too_long_words\bin\Debug\net8.0\Way_too_long_words.exe
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Practice\Code Forces\Way_too_long_words\bin\Debug\net8.0\Way_too_long_words.deps.json
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Practice\Code Forces\Way_too_long_words\bin\Debug\net8.0\Way_too_long_words.runtimeconfig.json
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Practice\Code Forces\Way_too_long_words\bin\Debug\net8.0\Way_too_long_words.dll
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Practice\Code Forces\Way_too_long_words\bin\Debug\net8.0\Way_too_long_words.pdb
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Practice\Code Forces\Way_too_long_words\obj\Debug\net8.0\Way_too_long_words.GeneratedMSBuildEditorConfig.editorconfig
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Practice\Code Forces\Way_too_long_words\obj\Debug\net8.0\Way_too_long_words.AssemblyInfoInputs.cache
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Practice\Code Forces\Way_too_long_words\obj\Debug\net8.0\Way_too_long_words.AssemblyInfo.cs
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Practice\Code Forces\Way_too_long_words\obj\Debug\net8.0\Way_too_long_words.csproj.CoreCompileInputs.cache
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Practice\Code Forces\Way_too_long_words\obj\Debug\net8.0\Way_too_long_words.dll
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Practice\Code Forces\Way_too_long_words\obj\Debug\net8.0\refint\Way_too_long_words.dll
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Practice\Code Forces\Way_too_long_words\obj\Debug\net8.0\Way_too_long_words.pdb
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Practice\Code Forces\Way_too_long_words\obj\Debug\net8.0\Way_too_long_words.genruntimeconfig.cache
+D:\Clement Raka De Costa\Documents\Machine Learnign (Dekstop)\C#\Self Taught\Practice\Code Forces\Way_too_long_words\obj\Debug\net8.0\ref\Way_too_long_words.dll
