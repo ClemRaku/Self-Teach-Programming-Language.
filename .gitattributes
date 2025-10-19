@@ -1,5 +1,1 @@
-# Hide all files from language stats by default
-* linguist-detectable=false
-
-# Explicitly mark only HTML files as detectable and as HTML
-*.html linguist-detectable=true linguist-language=HTML linguist-generated=false
+*.html linguist-language=HTML
